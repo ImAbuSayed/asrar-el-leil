@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل أنر دربي إليها
+> نار الشوق في قلبي تناديها
+> روحي تعانق طيفها في الظلام
+> أسرار الحب تكشفها الأيام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
