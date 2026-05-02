@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Asrar El Leil |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 03, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/asrar-el-leil/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا قمر الليل أنر دربي إليها
+> نار الشوق في قلبي تناديها
+> روحي تعانق طيفها في الظلام
+> أسرار الحب تكشفها الأيام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
