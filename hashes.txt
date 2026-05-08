@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Asrar El Leil
+
+This log tracks the cryptographic history and versioning for the song **Asrar El Leil** (asrar-el-leil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T22:31:42.051324 | `v1` | `8e61ac2605aac1022101f738c4a206aff4660c3284ab298a31a9584890d56de0` | `959a6540329b1971f430c0eabe8b29b21375e783b3defa9ecd61e611224a1adf` | `2026-05-08_asrar-el-leil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
